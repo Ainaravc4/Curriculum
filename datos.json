@@ -1,0 +1,113 @@
+{"español":[{
+    "titulos":["Educación","Experiencia","Proyectos","Habilidades","Idiomas","Referencias"],
+    "menu":[
+        {"link":"#sobre","nombre":"Sobre Mi"},
+        {"link":"#educacion","nombre":"Educación"},
+        {"link":"#experiencia","nombre":"Experiencia Profesional"},
+        {"link":"#proyectos","nombre":"Proyectos Desarrollados"},
+        {"link":"#habilidades","nombre":"Habilidades"},
+        {"link":"#idiomas","nombre":"Idiomas"}
+    ],
+    "nombre":["Ainara Vázquez Cuesta"],
+    "introduccion":["He cursado dos ciclos formativos relacionados con informática. Soy muy organizada, cooperadora y diligente. Mis ganas de aprender superan a mi experiencia, por ello me gustaría tener la oportunidad de desarrollar mis habilidades profesionales así como aumentar los ya existentes."],
+    "sobre":[ 
+        {"Direccion":"18013 Granada España","nacimiento":"04/07/2001","Correo":"Ainaravazquezc4@gmail.com","telefono":"621062219"},
+        {"redes":[
+            {"nombre":"Telegram","icono":"fab fa-telegram-plane","link":"https://t.me/ainaravc4"},
+            {"nombre":"Github","icono":"fab fa-github","link":"https://github.com/Ainaravc4?tab=repositories"},
+            {"nombre":"LinkedIn","icono":"fab fa-linkedin-in","link":"https://www.linkedin.com/in/ainara-vc-696399205/"}
+            
+        ]}
+        
+    ],
+    "educacion":[
+        {"Titulo":"ESO","nombre":"Educacion Secundaria Obligatoria","fecha":"22/05/2017","lugar":"IES Ramón y Cajal"},
+        {"Titulo":"SMR","nombre":"Sistemas Microinformaticos y Redes","fecha":"06/06/2019","lugar":"IES Francisco Ayala"},
+        {"Titulo":"DAW","nombre":"Desarrollo de Aplicaciones Web","fecha":"20/05/2021","lugar":"IES Francisco Ayala"}
+        ],
+    "experiencia":[
+        {"target":"#collapseOne","id":"collapseOne","mostrar":"collapse show","labelledby":"headingOne","Nombre":"Técnico Informático","fecha":"Marzo 2019 - Junio 2019","lugar":"NoSoloPC","descripción":"Mi experiencia laboral ha sido de 3 meses, debido a mis prácticas de empresa. En ese tiempo pude trabajar en NoSoloPC, donde pude reforzar de manera práctica mis conocimientos que adquirí en la formación profesional, ya que pude desempeñar trabajos como: ","conocimientos":[{"nombre":"Reparaciones de equipos de mesa, portátiles, consolas e impresoras."},{"nombre": "También pude participar en la instalación de cámaras de vigilancia."}, {"nombre":"Otra habilidad que adquirí fue la instalación de sistemas operativos y aplicaciones según la necesidad del cliente"}, {"nombre":"Y por útilmo también participé en la instalación y puesta en marcha y mantenimiento de pequeñas instalaciones con servicios de red local e internet."}]},
+        {"target":"#collapseTwo","id":"collapseTwo","mostrar":"collapse","labelledby":"headingTwo","Nombre":"Construcción","fecha":"Enero 2019 - Marzo 2019","lugar":"Juan Pablo II","descripción":"Estuve participando de manera voluntaria en la reparación y reconstrucción de un muro de contención de un local. En este proyecto pude aprender y trabajar en aspectos como: ","conocimientos":[{"nombre":"Ferralla"},{"nombre":"Hormigonera"},{"nombre":"Adoquines"}]}
+    ],
+    
+    "proyectos":[
+        {"target":"#proyecto1","id":"proyecto1","Nombre":"Piedra Papel y Tijera","icono1":"fas fa-pager","link1":"https://ainaravc4.github.io/Piedra-Papel-Tijera/index.html","icono2":"fab fa-github","link2":"https://github.com/Ainaravc4/Piedra-Papel-Tijera","img1":"./images/juego1.png","img2":"./images/proyecto1.png","descripcion":"Este proyecto es el típico juego de niños, el conocido 'Piedra Papel y Tijera', donde puede emplear mis conocimmientos de javaSript como la estructura de clases y objetos, donde también empleé el uso del DOM. Todo esto lo realice con:","conocimientos":[{"nombre":"JavaSript"},{"nombre":"HTML"},{"nombre":"CSS"}]},
+        {"target":"#proyecto2","id":"proyecto2","Nombre":"Ping Pong","icono1":"fas fa-pager","link1":"https://ainaravc4.github.io/Ping-Pong/","icono2":"fab fa-github","link2":"https://github.com/Ainaravc4/Ping-Pong","img1":"./images/juego2.png","img2":"./images/proyecto2.png","descripcion":"Mi segundo juego realizado y finalizado fue el del Ping Pong, donde el movimiento de las palas se realizan con las teclas del ordenador y tambien di la opción de jugar a través de un dispositivo táctil, en este proyecto pude reforzar los conocimientos de la arquitectura Modelo Vista Controlador. Y para ello empleé las tecnologías:", "conocimientos":[{"nombre":"JavaSript"},{"nombre":"DOM"},{"nombre":"Eventos"},{"nombre":"SVG"},{"nombre":"HTML5"},{"nombre":"CSS3"}]},
+        {"target":"#proyecto3","id":"proyecto3","Nombre":"Landing Page","icono1":"fas fa-pager","link1":"https://ainaravc4.github.io/LANDING-PAGE/","icono2":"fab fa-github","link2":"https://github.com/Ainaravc4/LANDING-PAGE","img1":"./images/landing.png","img2":"./images/proyecto3.png","descripcion":"Mi landing Page es sobre una gama de productos totalmente naturales. El contenido de mi pagina fue cabecera, hero y contenido. Todo este proyecto lo realice con las siguientes tecnologías:","conocimientos":[{"nombre":"JavaSript"},{"nombre":"JQuery"},{"nombre":"AJAX"},{"nombre":"JSON"},{"nombre":"HTML5"},{"nombre":"CSS"}]},
+        {"target":"#proyecto4","id":"proyecto4","Nombre":"Curriculum","icono1":"fas fa-pager","link1":"https://ainaravc4.github.io/Curriculum/","icono2":"fab fa-github","link2":"https://github.com/Ainaravc4/Curriculum","img1":"./images/cv.png","img2":"./images/proyecto4.png","descripcion":"La finalidad de éste proyecto ha consistido en crear un CV utilizando VueJS como entorno de desarrollo así como Bootstrap para la interfaz junto a tecnología del entorno cliente (HTML5, CSS3, …). Donde he creado una única página Web donde visualizo mi CV. Dicho curriculum se genera dinámicamente, ya que el contenido a mostrar está en un archivo JSON. Eso permite mucha flexibilidad, ya que funcioná como una plantilla que maqueta el contenido del archivo JSON, lo que lo hace generalizable para cualquier usuario. Todo este proyecto lo realice con las siguientes tecnologías:","conocimientos":[{"nombre":"JavaSript"},{"nombre":"JQuery"},{"nombre":"AJAX"},{"nombre":"JSON"},{"nombre":"HTML5"},{"nombre":"CSS"},{"nombre":"Bootstrap"}]},
+        {"target":"#proyecto5","id":"proyecto5","Nombre":"Tienda Online","icono1":"fas fa-pager","link1":"https://tiendaonline-f86a7.web.app/#/","icono2":"fab fa-github","link2":"https://github.com/Ainaravc4/TiendaOnline","img1":"./images/tienda.png","img2":"./images/proyecto5.png","descripcion":"La finalidad de esta práctica consiste en crear la interfaz de una tienda utilizando VueJS como Framework de desarrollo en el cliente, VueCli para el andamiaje, FireBase para las funcionalidades de Backend y Sass como preprocesador CSS. Todo este proyecto lo realice con las siguientes tecnologías: ","conocimientos":[{"nombre":"JavaSript"},{"nombre":"Vue-Cli"},{"nombre":"Firebase"},{"nombre":"Sass"},{"nombre":"CSS"}]}    
+        
+        
+    ],
+    "habilidades":[
+        {"nombre":"Word","nivel":"width: 95%","capacidad":"95%"},
+        {"nombre":"HTML5","nivel":"width: 90%","capacidad":"90%"},
+        {"nombre":"CSS3","nivel":"width: 75%","capacidad":"75%"},
+        {"nombre":"SCSS","nivel":"width: 65%","capacidad":"65%"},
+        {"nombre":"Bootstrap","nivel":"width: 85%","capacidad":"85%"},
+        {"nombre":"JavaScript","nivel":"width: 80%","capacidad":"80%"},
+        {"nombre":"Ajax","nivel":"width: 50%","capacidad":"50%"},
+        {"nombre":"JQuery","nivel":"width: 70%","capacidad":"70%"},
+        {"nombre":"Vue","nivel":"width: 70%","capacidad":"70%"},
+        {"nombre":"Firebase","nivel":"width: 75%","capacidad":"75%"},
+        {"nombre":"MySQL","nivel":"width: 50%","capacidad":"50%"}
+       
+        
+
+    ],
+    "idiomas":[
+        {"nombre":"Español","nivel":"width: 100%","capacidad":"100%"},
+        {"nombre":"Lengua de Signos","nivel":"width: 80%","capacidad":"80%"},
+        {"nombre":"Inglés","nivel":"width: 40%","capacidad":"40%"}
+
+    ],
+    "footer":"Curriculum Vitae realizado por Ainara Vázquez Cuesta"
+}],
+
+
+
+
+
+
+
+"ingles":[{
+    "titulos":["Education","Experience","Projects","Skills","Lenguages","References"],
+    "menu":[
+        {"link":"#sobre","nombre":"About Me"},
+        {"link":"#educacion","nombre":"Education"},
+        {"link":"#experiencia","nombre":"Professional Experience"},
+        {"link":"#proyectos","nombre":"Projects Developed"},
+        {"link":"#habilidades","nombre":"Skills"},
+        {"link":"#idiomas","nombre":"Languages"}],
+       
+    "introduccion":["I have completed two training cycles related to computer science. I am very organized, cooperative and diligent. My desire to learn outweighs my experience, so I would like to have the opportunity to develop my professional skills as well as to increase my existing ones."],
+    "sobre": [{"descripcion":"I have completed two training cycles related to computer science. I am very organized, cooperative and diligent. I am very good in aspects such as repairing desktop and laptop computers. My desire to learn outweighs my experience, so I would like to have the opportunity to develop my professional skills as well as increase my existing ones."}],
+
+    "educacion":[
+        {"Titulo":"CSE","nombre":"Compulsory Secondary Education","fecha":"22/05/2017","lugar":"IES Ramón y Cajal"},
+        {"Titulo":"MSN","nombre":"Microcomputer Systems and Networks","fecha":"06/06/2019","lugar":"IES Francisco Ayala"},
+        {"Titulo":"WAD","nombre":"Web Application Development","fecha":"20/05/2021","lugar":"IES Francisco Ayala"}
+    ],
+
+    "experiencia":[
+        {"target":"#collapseOne","id":"collapseOne","mostrar":"collapse show","labelledby":"headingOne","Nombre":"Computer Technician","fecha":"March 2019 - June 2019","lugar":"NoSoloPC","descripción":"My work experience has been 3 months, due to my internship. During that time I was able to work at NoSoloPC, where I was able to reinforce in a practical way my knowledge such as:" ,"conocimientos":[{"nombre":"Repairs of desktop computers, laptops, consoles and printers."},{"nombre": "I was also able to participate in the installation of surveillance cameras."}, {"nombre":"Another skill I acquired was the installation of operating systems and applications according to the client's needs"}, {"nombre":"I have also participated in the installation, commissioning and maintenance of small installations with local network and internet services."}]},
+        {"target":"#collapseTwo","id":"collapseTwo","mostrar":"collapse","labelledby":"headingTwo","Nombre":"Construcción","fecha":"Enero 2019 - Marzo 2019","lugar":"Juan Pablo II","descripción":"I was participating as a volunteer in the repair and reconstruction of a local retaining wall. In this project I was able to learn and work on aspects such as: ","conocimientos":[{"nombre":"Ferralla"},{"nombre":"Concrete mixer"},{"nombre":"Cobblestones"}]}
+    ],
+
+    "proyectos":[
+        {"target":"#proyecto1","id":"proyecto1","Nombre":"Rock Paper Scissors","icono1":"fas fa-pager","link1":"https://ainaravc4.github.io/Piedra-Papel-Tijera/index.html","icono2":"fab fa-github","link2":"https://github.com/Ainaravc4/Piedra-Papel-Tijera","img1":"./images/juego1.png","img2":"./images/proyecto1.png","descripcion":"This project is a typical child's game, the well known 'Rock Paper Scissors', where I can use my knowledge of javaSript as the structure of classes and objects, where I also employed the use of the DOM. all this was done with:","conocimientos":[{"nombre":"JavaSript"},{"nombre":"HTML"},{"nombre":"CSS"}]},
+        {"target":"#proyecto2","id":"proyecto2","Nombre":"Ping Pong","icono1":"fas fa-pager","link1":"https://ainaravc4.github.io/Ping-Pong/","icono2":"fab fa-github","link2":"https://github.com/Ainaravc4/Ping-Pong","img1":"./images/juego2.png","img2":"./images/proyecto2.png","descripcion":"My second game made and finished was the Ping Pong, where the movement of the paddles are made with the computer keys and also gave the option to play through a touch device, in this project I could reinforce the knowledge of the Model View Controller architecture. And for this I used:","conocimientos":[{"nombre":"JavaSript"},{"nombre":"DOM"},{"nombre":"Eventos"},{"nombre":"SVG"},{"nombre":"HTML5"},{"nombre":"CSS3"}]},
+        {"target":"#proyecto3","id":"proyecto3","Nombre":"Landing Page","icono1":"fas fa-pager","link1":"https://ainaravc4.github.io/LANDING-PAGE/","icono2":"fab fa-github","link2":"https://github.com/Ainaravc4/LANDING-PAGE","img1":"./images/landing.png","img2":"./images/proyecto3.png","descripcion":"My landing page is about a range of all-natural products. The content of my page was header, hero and content. All this project was done with the following technologies:","conocimientos":[{"nombre":"JavaSript"},{"nombre":"JQuery"},{"nombre":"AJAX"},{"nombre":"JSON"},{"nombre":"HTML5"},{"nombre":"CSS"}]},
+        {"target":"#proyecto4","id":"proyecto4","Nombre":"Curriculum","icono1":"fas fa-pager","link1":"https://ainaravc4.github.io/Curriculum/","icono2":"fab fa-github","link2":"https://github.com/Ainaravc4/Curriculum","img1":"./images/cv.png","img2":"./images/proyecto4.png","descripcion":"The purpose of this project was to create a CV using VueJS as development environment as well as Bootstrap for the interface along with client-side technology (HTML5, CSS3, ...). Where I have created a single web page where I display my CV. This resume is generated dynamically, since the content to be displayed is in a JSON file. This allows a lot of flexibility, since it works as a template that models the content of the JSON file, which makes it generalizable for any user. All this project was done with the following technologies:","conocimientos":[{"nombre":"JavaSript"},{"nombre":"JQuery"},{"nombre":"AJAX"},{"nombre":"JSON"},{"nombre":"HTML5"},{"nombre":"CSS"},{"nombre":"Bootstrap"}]},
+        {"target":"#proyecto5","id":"proyecto5","Nombre":"Tienda Online","icono1":"fas fa-pager","link1":"https://tiendaonline-f86a7.web.app/#/","icono2":"fab fa-github","link2":"https://github.com/Ainaravc4/TiendaOnline","img1":"./images/tienda.png","img2":"./images/proyecto5.png","descripcion":"The purpose of this practice is to create the interface of a store using VueJS as development framework on the client, VueCli for scaffolding, FireBase for backend functionalities and Sass as CSS preprocessor. Backend functionalities and Sass as CSS preprocessor. All this project was done with the following technologies: ","conocimientos":[{"nombre":"JavaSript"},{"nombre":"Vue-Cli"},{"nombre":"Firebase"},{"nombre":"Sass"},{"nombre":"CSS"}]}    
+    ],
+    
+    "idiomas":[
+        {"nombre":"Spanish","nivel":"width: 100%","capacidad":"100%"},
+        {"nombre":"Sign Languages","nivel":"width: 80%","capacidad":"80%"},
+        {"nombre":"English","nivel":"width: 50%","capacidad":"50%"}
+
+    ],
+    "footer":"Curriculum Vitae by Ainara Vázquez Cuesta"
+}]
+}
